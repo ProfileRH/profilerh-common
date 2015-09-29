@@ -1,0 +1,9 @@
+name: profilerh_common
+version: 0.0.1
+description: >
+  Basic model for ProfileRH
+dependencies:
+  crypto: '>=0.9.0 <0.10.0'
+  cipher: "^0.7.1"
+  intl: "^0.12.4+2"
+  uuid: "^0.5.0"

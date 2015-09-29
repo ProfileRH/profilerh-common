@@ -12,3 +12,13 @@ packages
 
 # Include when developing application packages.
 pubspec.lock
+# Generated files #
+###################
+*.css
+
+# Local folders #
+#################
+.git
+.idea
+build
+.packages
